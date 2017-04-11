@@ -1,5 +1,5 @@
 # Gym-Management-System
- This system is helps gym member and trainers to maintain details of work like progress card,diet,schedule,etc. 
+ This system helps gym member and trainers to maintain details of work like progress card,diet,schedule,etc. 
  
  Technologies
   - Back-end : JSP-Servlet
