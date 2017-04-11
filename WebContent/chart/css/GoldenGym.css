@@ -1,0 +1,28 @@
+/* CSS Document */
+span {
+	text-align: center;
+	color: #0099FF;
+	background-color: #FFFFFF
+}
+
+.effect {
+	text-align: right;
+	border: #0099FF solid;
+	text-transform: capitalize;
+}
+
+span:hover {
+	background-color: white;
+	border: #0066FF solid;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+img {
+	color: #FFFFFF;
+}
+
+img:hover {
+	transition: 2s all;
+	transform: rotateY(360deg);
+}
